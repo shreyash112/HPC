@@ -1,0 +1,4 @@
+I have modified the text provided. I have only kept the data and removed the text that was provided.
+To compile the program run make all
+After compiling run ./main 1 for problem a and ./main 0 for problem b.
+Use this with the srun command. I have written how to run with srun in the top of the code.
